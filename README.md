@@ -43,7 +43,7 @@ Run the program
 
 Excel data is updated after race result published by official sources
 
-Source code updated after qualifying result published by official sources
+Source code is updated after qualifying result published by official sources
 
 
 ## Acknowledgements
@@ -58,4 +58,4 @@ Source code updated after qualifying result published by official sources
 ## Updates
 
 - Last data update : 18th May, 2025
-- Last code update : 17th May, 2025
+- Last code update : 24th May, 2025
