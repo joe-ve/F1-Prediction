@@ -41,9 +41,9 @@ Run the program
 
 ## Appendix
 
-Excel data is updated after race result published by official sources i.e. Monday after every race day
+Excel data is updated after race result published by official sources
 
-Source code updated after qualifying result published by official sources i.e. Sunday after every qualifying
+Source code updated after qualifying result published by official sources
 
 
 ## Acknowledgements
