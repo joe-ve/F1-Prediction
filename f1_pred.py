@@ -4,7 +4,7 @@ from sklearn.ensemble import RandomForestClassifier
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import accuracy_score
 
-df = pd.read_excel("F1.xlsx", sheet_name='2025')
+df = pd.read_excel("f1/F1.xlsx", sheet_name='2025')
 
 df = df.dropna(subset=['Fastest_Lap(m)','Fastest_Lap(s)','Average_Speed','Pit_Stops'])
 
@@ -33,24 +33,24 @@ team_map = dict(zip(df['Team_Name'], df['Team_Code']))
 
 num = 20
 upcoming_race = pd.DataFrame({
-    'driver': ['Oscar Piastri','Max Verstappen','George Russell','Lando Norris','Fernando Alonso',
-               'Carlos Sainz','Alexander Albon','Lance Stroll','Isack Hadjar','Pierre Gasly',
-               'Charles Leclerc','Lewis Hamilton','Kimi Antonelli','Gabriel Bortoleto','Franco Colapinto',
-               'Liam Lawson','Nico Hulkenberg','Esteban Ocon','Oliver Bearman','Yuki Tsunoda'],
-    'driver_points':[131,99,93,115,0,7,30,14,5,7,
-                     53,41,48,0,0,0,6,14,6,9],
+    'driver': ['Lando Norris','Charles Leclerc','Oscar Piastri','Lewis Hamilton','Max Verstappen',
+               'Isack Hadjar','Fernando Alonso','Esteban Ocon','Liam Lawson','Alexander Albon',
+               'Carlos Sainz','Yuki Tsunoda','Nico Hulkenberg','George Russell','Kimi Antonelli',
+               'Gabriel Bortoleto','Oliver Bearman','Pierre Gasly','Lance Stroll','Franco Colapinto'],
+    'driver_points':[133,61,146,53,124,7,0,14,0,40,
+                     11,10,6,99,48,0,6,7,14,0],
     'qualifying_position': [1, 2, 3, 4, 5, 6, 7, 8, 9, 10,
                             11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
-    'constructor': ['McLaren','Red Bull','Mercedes','McLaren','Aston Martin',
-                    'Williams','Williams','Aston Martin','Racing Bulls','Alpine',
-                    'Ferrari','Ferrari','Mercedes','Kick Sauber','Alpine',
-                    'Racing Bulls','Kick Sauber','Haas','Haas','Red Bull'],
-    'constructor_points':[246,105,141,246,14,37,37,14,8,7,
-                          94,94,141,6,7,8,6,20,20,105],
-    'fastest_lap_s': [74.670,74.704,74.807,74.962,75.431,75.432,75.473,75.581,75.746,75.787,
-                      75.604,75.765,75.772,76.260,76.256,76.379,76.518,76.613,76.918,77.124],
-    'average_speed': [236.6,236.5,236.2,235.7,234.2,234.2,234.1,233.8,233.3,233.1,
-                      233.7,233.2,233.2,231.7,231.5,231.3,230.9,230.6,229.7,229.4],
+    'constructor': ['McLaren','Ferrari','McLaren','Ferrari','Red Bull',
+                    'Racing Bulls','Aston Martin','Haas','Racing Bulls','Williams',
+                    'Williams','Red Bull','Kick Sauber','Mercedes','Mercedes',
+                    'Kick Sauber','Haas','Alpine','Aston Martin','Alpine'],
+    'constructor_points':[279,114,279,114,131,10,14,20,10,51,
+                          51,131,6,147,147,6,20,7,14,7],
+    'fastest_lap_s': [69.954,70.063,70.129,70.382,70.669,70.923,70.924,70.942,71.129,71.213,
+                      71.362,71.415,71.596,71.507,71.880,71.902,71.979,71.994,72.563,72.597],
+    'average_speed': [171.7,171.4,171.3,170.6,169.9,169.3,169.3,169.3,168.8,168.6,
+                      168.3,168.2,167.7,167.5,167.2,167.0,166.8,166.8,165.5,165.4],
     'pit_stops': [2]*num,
     'dnf': ['No']*num,
     'circuit_type': ['Street']*num,
