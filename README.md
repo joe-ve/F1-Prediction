@@ -58,4 +58,4 @@ Source code is updated after qualifying result published by official sources
 ## Updates
 
 - Last data update : 16th June, 2025
-- Last code update : 15th June, 2025
+- Last code update : 29th June, 2025
