@@ -57,5 +57,5 @@ Source code is updated after qualifying result published by official sources
 
 ## Updates
 
-- Last data update : 9th July, 2025
+- Last data update : 31st July, 2025
 - Last code update : 27th July, 2025
