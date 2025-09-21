@@ -57,7 +57,7 @@ Source code is updated after qualifying result published by official sources
 
 ## Updates
 
-- Last data update : 2nd Sept, 2025
+- Last data update : 9th Sept, 2025
 - Last code update : 8th Sept, 2025
 
 ## Monza Prediction
