@@ -58,8 +58,9 @@ Source code is updated after qualifying result published by official sources
 ## Updates
 
 - Last data update : 9th Sept, 2025
-- Last code update : 8th Sept, 2025
+- Last code update : 21st Sept, 2025
 
 ## Monza Prediction
-<img width="425" height="155" alt="Screenshot 2025-09-08 234545" src="https://github.com/user-attachments/assets/6053f7a4-1356-4617-9271-bc44bbe600fb" />
+<img width="428" height="154" alt="Screenshot 2025-09-21 114045" src="https://github.com/user-attachments/assets/73446d0e-10b3-4f58-b9c2-91a30c7a586e" />
+
 
