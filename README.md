@@ -58,9 +58,10 @@ Source code is updated after qualifying result published by official sources
 ## Updates
 
 - Last data update : 21st Sept, 2025
-- Last code update : 21st Sept, 2025
+- Last code update : 5th Oct, 2025
 
-## Baku Prediction
-<img width="428" height="154" alt="Screenshot 2025-09-21 114045" src="https://github.com/user-attachments/assets/73446d0e-10b3-4f58-b9c2-91a30c7a586e" />
+## Singapore Prediction
+<img width="567" height="197" alt="Screenshot 2025-10-05 002514" src="https://github.com/user-attachments/assets/25c5e957-f28c-4287-90df-3d2e6ee170e5" />
+
 
 
