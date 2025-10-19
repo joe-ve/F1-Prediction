@@ -58,10 +58,11 @@ Source code is updated after qualifying result published by official sources
 ## Updates
 
 - Last data update : 5th Oct, 2025
-- Last code update : 5th Oct, 2025
+- Last code update : 19th Oct, 2025
 
-## Singapore Prediction
-<img width="567" height="197" alt="Screenshot 2025-10-05 002514" src="https://github.com/user-attachments/assets/25c5e957-f28c-4287-90df-3d2e6ee170e5" />
+## US Prediction
+<img width="561" height="193" alt="Screenshot 2025-10-19 151725" src="https://github.com/user-attachments/assets/04fab933-d783-4220-a809-372186e2af64" />
+
 
 
 
