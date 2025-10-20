@@ -57,7 +57,7 @@ Source code is updated after qualifying result published by official sources
 
 ## Updates
 
-- Last data update : 5th Oct, 2025
+- Last data update : 20th Oct, 2025
 - Last code update : 19th Oct, 2025
 
 ## US Prediction
