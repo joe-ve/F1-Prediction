@@ -58,10 +58,11 @@ Source code is updated after qualifying result published by official sources
 ## Updates
 
 - Last data update : 27th Oct, 2025
-- Last code update : 26th Oct, 2025
+- Last code update : 09th Nov, 2025
 
-## Mexico Prediction
-<img width="568" height="195" alt="Screenshot 2025-10-26 111831" src="https://github.com/user-attachments/assets/9fb9ae10-38a8-4d9b-9fb9-ed18143c2765" />
+## Brazil Prediction
+<img width="580" height="199" alt="Screenshot 2025-11-09 224125" src="https://github.com/user-attachments/assets/79a31efe-5ed2-485f-b3a2-bca5dbbd2fa8" />
+
 
 
 
