@@ -57,7 +57,7 @@ Source code is updated after qualifying result published by official sources
 
 ## Updates
 
-- Last data update : 27th Oct, 2025
+- Last data update : 10th Nov, 2025
 - Last code update : 09th Nov, 2025
 
 ## Brazil Prediction
