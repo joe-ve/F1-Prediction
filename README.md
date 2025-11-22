@@ -61,7 +61,8 @@ Source code is updated after qualifying result published by official sources
 - Last code update : 22nd Nov, 2025
 
 ## Las Vegas Prediction
-<img width="580" height="199" alt="Screenshot 2025-11-09 224125" src="https://github.com/user-attachments/assets/6e4e4892-3488-4d41-8981-dc189e1667a6" />
+<img width="569" height="197" alt="Screenshot 2025-11-22 182354" src="https://github.com/user-attachments/assets/f422ffce-98d8-40ce-9bf0-298bdba342bb" />
+
 
 
 
