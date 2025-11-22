@@ -58,10 +58,11 @@ Source code is updated after qualifying result published by official sources
 ## Updates
 
 - Last data update : 10th Nov, 2025
-- Last code update : 09th Nov, 2025
+- Last code update : 22nd Nov, 2025
 
-## Brazil Prediction
-<img width="580" height="199" alt="Screenshot 2025-11-09 224125" src="https://github.com/user-attachments/assets/79a31efe-5ed2-485f-b3a2-bca5dbbd2fa8" />
+## Las Vegas Prediction
+<img width="580" height="199" alt="Screenshot 2025-11-09 224125" src="https://github.com/user-attachments/assets/6e4e4892-3488-4d41-8981-dc189e1667a6" />
+
 
 
 
