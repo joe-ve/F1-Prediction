@@ -58,10 +58,11 @@ Source code is updated after qualifying result published by official sources
 ## Updates
 
 - Last data update : 23rd Nov, 2025
-- Last code update : 22nd Nov, 2025
+- Last code update : 30th Nov, 2025
 
-## Las Vegas Prediction
-<img width="569" height="197" alt="Screenshot 2025-11-22 182354" src="https://github.com/user-attachments/assets/f422ffce-98d8-40ce-9bf0-298bdba342bb" />
+## Qatar Prediction
+<img width="565" height="196" alt="Screenshot 2025-11-30 122734" src="https://github.com/user-attachments/assets/38fb3302-28df-4abb-9e4f-f10835183698" />
+
 
 
 
