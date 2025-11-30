@@ -33,28 +33,28 @@ team_map = dict(zip(df['Team_Name'], df['Team_Code']))
 
 num = 20
 upcoming_race = pd.DataFrame({
-    'driver': ['Lando Norris','Max Verstappen','Carlos Sainz','George Russell','Oscar Piastri',
-               'Liam Lawson','Fernando Alonso','Isack Hadjar','Charles Leclerc','Pierre Gasly',
-               'Nico Hulkenberg','Lance Stroll','Esteban Ocon','Oliver Bearman','Franco Colapinto',
-               'Alexander Albon','Kimi Antonelli','Gabriel Bortoleto','Yuki Tsunoda','Lewis Hamilton'],
-    'driver_points':[390,341,38,276,366,36,40,43,214,22,
-                     43,32,30,40,0,73,122,19,28,148],
+    'driver': ['Oscar Piastri','Lando Norris','Max Verstappen','George Russell','Kimi Antonelli',
+               'Isack Hadjar','Carlos Sainz','Fernando Alonso','Pierre Gasly','Charles Leclerc',
+               'Nico Hulkenberg','Liam Lawson','Oliver Bearman','Gabriel Bortoleto','Alexander Albon',
+               'Yuki Tsunoda','Esteban Ocon','Lewis Hamilton','Lance Stroll','Franco Colapinto'],
+    'driver_points':[374,396,371,301,140,51,49,42,22,226,
+                     49,36,41,19,73,32,32,152,32,0],
     'qualifying_position': [1, 2, 3, 4, 5, 6, 7, 8, 9, 10,
                             11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
-    'constructor': ['McLaren','Red Bull','Williams','Mercedes','McLaren',
-                    'Racing Bulls','Aston Martin','Racing Bulls','Ferrari','Alpine',
-                    'Kick Sauber','Aston Martin','Haas','Haas','Alpine',
-                    'Williams','Mercedes','Kick Sauber','Red Bull','Ferrari'],
-    'constructor_points':[756,366,111,398,756,82,72,82,362,22,
-                          62,72,70,70,22,111,398,62,366,362],
-    'fastest_lap_s': [107.934,108.257,108.296,108.803,108.961,109.062,109.466,109.554,109.872,111.540,
-                      112.781,112.850,112.987,113.094,113.683,116.220,116.314,116.674,116.798,117.115],
-    'average_speed': [206.8,206.2,206.1,205.1,204.8,204.6,203.9,203.7,203.1,200.1,
-                      197.9,197.8,197.5,197.3,196.3,192.0,191.9,191.3,191.1,190.6],
+    'constructor': ['McLaren','McLaren','Red Bull','Mercedes','Mercedes',
+                    'Racing Bulls','Williams','Aston Martin','Alpine','Ferrari',
+                    'Kick Sauber','Racing Bulls','Haas','Kick Sauber','Williams',
+                    'Red Bull','Haas','Ferrari','Aston Martin','Alpine'],
+    'constructor_points':[770,770,400,441,441,90,122,74,22,378,
+                          68,90,73,68,122,400,73,378,74,22],
+    'fastest_lap_s': [79.387,79.495,79.651,79.662,79.846,80.114,80.287,80.418,80.477,80.561,
+                      80.353,80.433,80.438,80.534,80.629,80.761,80.864,80.907,81.058,81.137],
+    'average_speed': [245.7,245.4,244.9,244.8,244.3,243.5,242.9,242.5,242.4,242.1,
+                      242.7,242.5,242.5,242.2,241.9,241.5,241.2,241.1,240.6,240.4],
     'pit_stops': [2]*num,
     'dnf': ['No']*num,
-    'circuit_type': ['Street']*num,
-    'weather': ['Wet']*num
+    'circuit_type': ['Permanent']*num,
+    'weather': ['Dry']*num
 })
 
 upcoming_race['Circuit_Code'] = upcoming_race['circuit_type'].map(circuit_map)
