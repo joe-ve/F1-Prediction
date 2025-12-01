@@ -57,7 +57,7 @@ Source code is updated after qualifying result published by official sources
 
 ## Updates
 
-- Last data update : 23rd Nov, 2025
+- Last data update : 1st Dec, 2025
 - Last code update : 30th Nov, 2025
 
 ## Qatar Prediction
