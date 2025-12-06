@@ -58,10 +58,11 @@ Source code is updated after qualifying result published by official sources
 ## Updates
 
 - Last data update : 1st Dec, 2025
-- Last code update : 30th Nov, 2025
+- Last code update : 6th Dec, 2025
 
-## Qatar Prediction
-<img width="565" height="196" alt="Screenshot 2025-11-30 122734" src="https://github.com/user-attachments/assets/38fb3302-28df-4abb-9e4f-f10835183698" />
+## Abu Dhabi Prediction
+<img width="570" height="197" alt="Screenshot 2025-12-06 215048" src="https://github.com/user-attachments/assets/affac7e9-845c-4c5b-8cb6-1200546d1512" />
+
 
 
 
