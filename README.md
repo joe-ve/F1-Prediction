@@ -57,7 +57,7 @@ Source code is updated after qualifying result published by official sources
 
 ## Updates
 
-- Last data update : 1st Dec, 2025
+- Last data update : 7th Dec, 2025
 - Last code update : 6th Dec, 2025
 
 ## Abu Dhabi Prediction
